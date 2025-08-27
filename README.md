@@ -61,41 +61,41 @@ Upload the `.huff` file and `.key` file to restore the original file.
 ---
 
 ### ✅ Compress a File
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2em;">
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 1em;">
+    1. Open <strong>index.html</strong> in your browser.<br>
+    2. Navigate to the <strong>Compress a File</strong> section.<br>
+    3. Click <strong>Choose File</strong> and select your file.<br>
+    4. Click <strong>Compress</strong>.<br>
+    5. Download <code>.huff</code> and <code>.key</code> files.
+  </div>
 
-<div style="flex: 1; padding-right: 1em;">
-1. Open `index.html` in your browser.  
-2. Navigate to the **Compress a File** section.  
-3. Click **Choose File** and select your file.  
-4. Click **Compress**.  
-5. Download `.huff` and `.key` files.
-</div>
-
-<div style="flex: 1;">
-<img src="screenshots/compress.png" alt="Compress Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
-</div>
-
-</div>
-
----
-
-### 🔓 Decompress a File
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1; padding-right: 1em;">
-1. Scroll to **Decompress a File** section.  
-2. Upload the `.huff` and corresponding `.key` file.  
-3. Click **Decompress**.  
-4. Download the restored original file.
-</div>
-
-<div style="flex: 1;">
-<img src="screenshots/decompress.png" alt="Decompress Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
-</div>
+  <div style="flex: 1; text-align:center;">
+    <img src="screenshots/compress.png" alt="Compress Screenshot" style="max-width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+  </div>
 
 </div>
+
+<hr>
+
+<h3>🔓 Decompress a File</h3>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1em;">
+
+  <div style="flex: 1; padding-right: 1em;">
+    1. Scroll to the <strong>Decompress a File</strong> section.<br>
+    2. Upload the <code>.huff</code> and corresponding <code>.key</code> file.<br>
+    3. Click <strong>Decompress</strong>.<br>
+    4. Download the restored original file.
+  </div>
+
+  <div style="flex: 1; text-align:center;">
+    <img src="screenshots/decompress.png" alt="Decompress Screenshot" style="max-width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+  </div>
+
+</div>
+
 
 ---
 
