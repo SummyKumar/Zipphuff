@@ -72,7 +72,7 @@ Upload the `.huff` file and `.key` file to restore the original file.
   </div>
 
   <div style="flex: 1; text-align:center;">
-    <img src="screenshots/compress.png" alt="Compress Screenshot" style="max-width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    <img src="screenshots/compress.png" alt="Compress Screenshot" style="max-width: 50%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   </div>
 
 </div>
@@ -91,7 +91,7 @@ Upload the `.huff` file and `.key` file to restore the original file.
   </div>
 
   <div style="flex: 1; text-align:center;">
-    <img src="screenshots/decompress.png" alt="Decompress Screenshot" style="max-width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    <img src="screenshots/decompress.png" alt="Decompress Screenshot" style="max-width: 50%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   </div>
 
 </div>
