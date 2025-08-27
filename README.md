@@ -60,22 +60,42 @@ Upload the `.huff` file and `.key` file to restore the original file.
 
 ---
 
-## 🔐 How to Use
-
 ### ✅ Compress a File
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 1em;">
 1. Open `index.html` in your browser.  
 2. Navigate to the **Compress a File** section.  
 3. Click **Choose File** and select your file.  
 4. Click **Compress**.  
 5. Download `.huff` and `.key` files.
+</div>
+
+<div style="flex: 1;">
+<img src="screenshots/compress.png" alt="Compress Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
+</div>
+
+</div>
+
+---
 
 ### 🔓 Decompress a File
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 1em;">
 1. Scroll to **Decompress a File** section.  
 2. Upload the `.huff` and corresponding `.key` file.  
 3. Click **Decompress**.  
 4. Download the restored original file.
+</div>
+
+<div style="flex: 1;">
+<img src="screenshots/decompress.png" alt="Decompress Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
+</div>
+
+</div>
 
 ---
 
