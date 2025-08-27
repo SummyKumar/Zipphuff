@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Huffman Compressor/Decompressor</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h2>Compress a File</h2>
+  <input type="file" id="compressFile">
+  <br>
+  <button id="compressBtn">Compress</button>
+  <p id="compressStatus"></p>
+</div>
+
+<div class="container">
+  <h2>Decompress a File</h2>
+  <input type="file" id="decompressFile" accept=".huff">
+  <br>
+  <input type="file" id="keyFile" accept=".key">
+  <br>
+  <button id="decompressBtn">Decompress</button>
+  <p id="decompressStatus"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
