@@ -10,6 +10,11 @@ No uploads, no servers — just your browser 🚀.
 
 ---
 
+## Live Demo
+
+You can view the live demo of the project here: [ZipHuff Live Demo](https://summykumar.github.io/Zipphuff/)
+
+---
 ## 🚀 Features
 
 - 📦 **Compress files using Huffman coding**  
